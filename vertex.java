@@ -1,4 +1,4 @@
-public class Vertex {
+public class Vertex { 
 
     char label;
     boolean flagVisited;
