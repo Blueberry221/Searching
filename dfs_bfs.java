@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-public class Graph {
+public class Graph { 
 
     private int maxVertex = 10;
     private Vertex[] vertexList;
